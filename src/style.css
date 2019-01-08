@@ -1,0 +1,18 @@
+@import "~bootstrap/dist/css/bootstrap.css";
+
+html {
+  position: relative;
+  min-height: 100%;
+}
+
+body, .wrapper {
+  height: 100vh;
+  width: 100%;
+}
+
+button, input[type="submit"] {
+  color: #fff;
+  background-color: #007bff;
+  border-color: #007bff;
+  box-shadow: 0 0 10px #212529;
+}
