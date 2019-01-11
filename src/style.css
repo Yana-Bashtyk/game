@@ -6,7 +6,7 @@ html {
 }
 
 body, .wrapper {
-  height: 100vh;
+  height: 100%;
   width: 100%;
 }
 
@@ -15,4 +15,9 @@ button, input[type="submit"] {
   background-color: #007bff;
   border-color: #007bff;
   box-shadow: 0 0 10px #212529;
+}
+
+h5.modal-title {
+  color: #000000cc;
+  font-size: 1.45rem;
 }
